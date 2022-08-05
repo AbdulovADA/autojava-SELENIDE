@@ -30,7 +30,7 @@ class CardFormTest {
     }
 
     @Test
-    void shouldTestOrderAdminCenter() {
+    void shouldTestOrderForm() {
         String meetingDate = generateDate(6);
 
         $("[data-test-id = 'city'] input").setValue("Самара");
