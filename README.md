@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lvlo86bw2gayj2fk?svg=true)](https://ci.appveyor.com/project/AbdulovADA/autojava-selenide)
